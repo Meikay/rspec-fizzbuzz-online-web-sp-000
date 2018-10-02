@@ -11,5 +11,5 @@ elsif int % 3 && 5 == 0
     print "FizzBuzz"
   end
 else
-  print "nil"  
+  print "nil"
 end
