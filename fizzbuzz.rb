@@ -5,6 +5,4 @@ def fizzbuzz(3)
     "Fizz"
   end
 end
-  if 5 % 5 == 0
-      "Buzz"
-  end
+  
