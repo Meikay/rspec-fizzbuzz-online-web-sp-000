@@ -12,5 +12,5 @@ elsif int % 3 && 5 == 0
   end
 else
   print "nil"
-end  
+end
 end
