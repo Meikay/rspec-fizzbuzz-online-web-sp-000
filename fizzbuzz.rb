@@ -2,11 +2,6 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(fizz_3)
   if fizz_3 % 3 == 0
-    puts "Fizz"
-  end
-end
-def fizzbuzz(fizz_5)
-  if fizz_5 % 5 == 0
-    puts "Buzz"
+    return "Fizz"
   end
 end
