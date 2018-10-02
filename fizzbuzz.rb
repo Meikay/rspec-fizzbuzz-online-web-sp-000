@@ -5,4 +5,3 @@ def fizzbuzz(fizz_3)
     return "Fizz"
   end
 end
-  
