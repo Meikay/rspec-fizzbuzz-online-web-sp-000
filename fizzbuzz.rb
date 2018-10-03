@@ -4,13 +4,13 @@ def fizzbuzz(int)
   if int % 3 == 0
     print "Fizz"
   end
-elsif int % 5 == 0
+  elsif int % 5 == 0
     print "Buzz"
   end
-elsif int % 3 && 5 == 0
+  elsif int % 3 && 5 == 0
     print "FizzBuzz"
   end
-else
-  print "nil"
-end
+  else
+    print "nil"
+  end
 end
